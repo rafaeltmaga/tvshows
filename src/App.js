@@ -61,6 +61,7 @@ export default function() {
             <h1>Tv Shows</h1>
 
             <div className="date">
+                <body>Digite a data a ser pesquisada:</body>
                 <InputMask
                     mask="99/99/9999"
                     alwaysShowMask={true}
